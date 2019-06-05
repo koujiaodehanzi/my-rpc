@@ -1,0 +1,3 @@
+com\wyk\rpc\service\IHelloService.class
+com\wyk\rpc\vo\RpcRequest.class
+com\wyk\rpc\dto\User.class
